@@ -1,0 +1,33 @@
+# PHP / general
+/vendor/
+/composer.lock
+/node_modules/
+/.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+/.vscode/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage/
+.env.php
+uploads/
+storage/
+# Mac
+*.DS_Store
+# Composer
+/vendor/
+
+# Build artifacts
+dist/
+
+# Misc
+*.sqlite
+*.sqlite3
+
+# If there are any other local files that shouldn't be tracked add them here
